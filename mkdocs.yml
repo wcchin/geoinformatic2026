@@ -1,6 +1,7 @@
 site_name: GeoInformatics 2026
 docs_dir: markdown
 site_dir: docs
+base_url: https://geoinformatics-2026.netlify.app/
 
 theme:
   name: null
