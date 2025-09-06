@@ -1,6 +1,6 @@
 site_name: GeoInformatics 2026
 docs_dir: markdown
-site_dir: site
+site_dir: docs
 
 theme:
   name: null
