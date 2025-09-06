@@ -1,7 +1,7 @@
 site_name: GeoInformatics 2026
 docs_dir: markdown
 site_dir: docs
-base_url: https://geoinformatics-2026.netlify.app/
+#base_url: https://geoinformatics-2026.netlify.app/
 
 theme:
   name: null
@@ -20,4 +20,10 @@ nav:
 - Organisation: Organisation.md
 - Venue: Venue.md
 - Contact: Contact.md
+
+watch:
+  - bulma
+
+#exclude_docs: |
+#  index.md
 

@@ -69,3 +69,15 @@ body {
     font-weight: bold;
 }
 */
+
+
+
+.bg-img {
+  background-image: url(../img/trees_UTown.png) ;
+  background-position: center center;
+  background-repeat:  no-repeat;
+  background-attachment: fixed;
+  background-size:  cover;
+  background-color: #999;
+
+}
