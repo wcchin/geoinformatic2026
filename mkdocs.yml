@@ -1,0 +1,22 @@
+site_name: GeoInformatics 2026
+docs_dir: markdown
+site_dir: site
+
+theme:
+  name: null
+  custom_dir: 'bulma/'
+
+#plugins:
+#  - landing-preset:
+#      name: catppuccin
+
+
+nav:
+- Home: index.md
+- About: About.md
+- Participation: Participation.md
+- Program: Program.md
+- Organisation: Organisation.md
+- Venue: Venue.md
+- Contact: Contact.md
+

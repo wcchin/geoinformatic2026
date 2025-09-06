@@ -1,0 +1,51 @@
+<!--
+
+-->
+
+<nav class="navbar is-fixed-top is-spaced has-shadow is-transparent" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="#">
+      <img src="{{ "img/cpgis-logo.png"|url }}" alt="CPGIS logo" style="width:150px; height:auto; max-height:100px;">
+    </a>
+
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBulma">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbarBulma" class="navbar-menu">
+    <div class="navbar-start">
+
+    {% for nav_item in nav %}
+    {% if not nav_item.children %}
+      <a class="navbar-item is-size-3" href="{{ nav_item.url|url }}">{{ nav_item.title }}</a>
+    {% else %}
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link is-size-3">
+          {{ nav_item.title }}
+        </a>
+        <div class="navbar-dropdown">
+          {% for nav in nav_item.children %}
+          <a class="navbar-item is-size-4">
+            {{ nav.title }}
+          </a>
+          {% endfor %}
+        </div>
+      </div>
+    {% endif %}
+
+    {% endfor %}
+    </div>
+
+    <!--<div class="navbar-end">
+      <div class="navbar-item is-size-4" role="search">
+        <form action="{{ "search.html"|url }}" method="get">
+          <input type="search" name="q" placeholder="Search docs" />
+        </form>
+      </div>
+    </div>-->
+  </div>
+</nav>
