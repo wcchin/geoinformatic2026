@@ -23,6 +23,7 @@
   -->
 
   <link rel="stylesheet" href="css/theme.css">
+  <!--<link rel="stylesheet" href="css/bulma-carousel-config.css">-->
 
   
     <link href="css/nord_colors.css" rel="stylesheet">
@@ -63,7 +64,37 @@
 <body>
 
 
-<section class="hero is-fullheight has-background">
+<section class="hero is-fullheight has-background"> <!-- has-carousel -->
+
+
+  <!-- trying carousel for multiple maps here
+  <div id="slider" class="hero-carousel">
+    <div class="card item-1">
+      <div class="card-image">
+        <figure class="image is-covered">
+          <img alt="UTown Tree" class="hero-background is-transparent" src="img/trees_UTown.png" />
+        </figure>
+      </div>
+      <div class="card-content slider-text">
+        <div class="is-size-5 box">
+          <YOUR_IMAGE_CAPTION_HERE>
+        </div>
+      </div>
+    </div>
+    <div class="card item-2">
+      <div class="card-image">
+        <figure class="image is-covered">
+          <img alt="UTown Tree" class="hero-background is-transparent" src="img/trees_UTown.png" />
+        </figure>
+      </div>
+      <div class="card-content slider-text">
+        <div class="is-size-5 box">
+          <YOUR_IMAGE_CAPTION_HERE>
+        </div>
+      </div>
+    </div>
+  </div>-->
+
 <img alt="UTown Tree" class="hero-background is-transparent" src="img/trees_UTown.png" />
   <!-- Hero head: will stick at the top -->
   <div class="hero-head">
@@ -71,7 +102,7 @@
       
       <div class="container">
         <div class="navbar-brand">
-          <a class="navbar-item" href="#">
+          <a class="navbar-item" href=".">
             <img src="img/cpgis-logo.png" alt="CPGIS logo" style="width:150px; height:auto; max-height:100px;">
           </a>
           <a role="button" class="navbar-burger" data-target="navbarMenuHeroA" aria-label="menu" aria-expanded="false">
@@ -159,6 +190,21 @@
       </div>
   </div>
 </section>
+
+
+<!--
+<script src="js/bulma-carousel-script.js"></script>
+<script src="js/bulma-carousel.min.js"></script>
+
+<script>
+  bulmaCarousel.attach('#slider', {
+    slidesToScroll: 1,
+    slidesToShow: 1,
+    infinite: true,
+    autoplay: true,
+  });
+</script>
+-->
 
 </body>
 </html>
