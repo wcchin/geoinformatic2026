@@ -86,3 +86,8 @@ body {
 .hero-background.is-transparent {
   opacity: 0.3;
 }
+
+
+a.navbar-item:hover {
+  --bulma-navbar-item-background-a: 0.4;
+}

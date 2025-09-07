@@ -5,12 +5,18 @@ template: index-hero.html
 
 <div class="hero-body">
   <div class="container">
-  <p class="title is-size-1">Geoinformatics 2026</p>
+  <h1 class="title is-size-1" style="font-size: 4rem !important">Geoinformatics 2026</h1>
 
-  <p class="subtitle is-size-2">Geo-Innovations for a Sustainable & Resilience Society</p>
+  <h2 class="subtitle is-size-2">Geo-Innovations for a Sustainable & Resilience Society</h2>
 
   <p class="subtitle is-size-3">The 33rd International Conference on Geoinformatics</p>
 
-  <p class="is-size-4">19--22 July, 2026 | UTown@NUS, Singapore</p>
+  <h3 class="title is-size-3">19th - 22nd July, 2026 | UTown@NUS, Singapore</h3>
+
+  <div class="level mt-6">
+  <a class="button is-size-4 has-text-white has-background-dark" href="About/"><strong>Conference Theme</strong></a>
+  <a class="button is-size-4 has-text-white has-background-dark" href="Participation">Participation</a>
+  <a class="button is-size-4 has-text-white has-background-dark" href="Venue">About the place</a>
+  </div>
   </div>
 </div>

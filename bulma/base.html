@@ -70,17 +70,17 @@
 
 <body>
   <div class="container">
-  <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+  <nav class="navbar" role="navigation" aria-label="main navigation">
   {% include "nav.html" %}
   </nav>
   </div>
   
-<div class="columns" style="margin-top:12em;">
+<div class="columns" style="margin-top:1em;">
   <div class="column is-one-fifth"></div>
   <div class="column is-three-fifths">
 	<div class="container">
   	  <div class="box">
-  	  <div class="content is-large my-5">
+  	  <div class="content is-large my-5 px-3">
 	  {% block content %}
 		{{ page.content }}
 	  {% endblock %}
@@ -105,7 +105,8 @@
 <footer class="footer">
   <div class="content has-text-centered">
     <p class="is-size-4">
-      <strong>Geoinformatics 2026</strong> by <a href="#">Department of Geography, NUS</a>.
+      <strong>Geoinformatics 2026</strong> by <a href="https://fass.nus.edu.sg/geog/">Department of Geography, NUS</a>.
+      Co-host with <a href="https://www.cpgis.org/">CPGIS</a>.
     </p>
   </div>
 </footer>
