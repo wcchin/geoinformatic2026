@@ -61,7 +61,7 @@
      background-color: #ffffff;
   }
   .menu-list .menu-item, .menu-list a, .menu-list button {
-     background-color: var(--nord6-snow);
+     background-color: #ffffff;
   }
   .has-background-dark {
      background-color: var(--nord3-night) !important;
