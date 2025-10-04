@@ -1,14 +1,24 @@
-# Organizers and The Location
-
 ## Organizer
 
-### NUS Geography
+### GIS Unit, Geography Department, NUS
+
+
+
+## Committees
+
+
+
 
 
 ## Co-organizer
 
 
+
+
+
+
 ## Sponsors
+
 
 
 

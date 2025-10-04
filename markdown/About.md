@@ -1,16 +1,14 @@
  
 
-## About
+# Geoinformatics 2026
 
-### CPGIS
+The [GIS Unit](https://nusgis.org/), [Department of Geography, National University of Singapore](https://fass.nus.edu.sg/geog/), welcomes you to the 33rd International Conference on Geoinformatics (**Geoinformatics 2026** ), which will be held between **<u>19-22 July 2026</u>**, at **University Town ([UTown](https://uci.nus.edu.sg/campus-life/campus-services/utown/)), NUS**.
 
-The Geoinformatics Conference series was initiated by the <u>International Association of Chinese Professionals in Geographic Information Sciences (CPGIS)</u> in 1992 and has held thirty-two annual international conferences on geographic informatics all over the world. This international conference series has provided a unique platform for networking and exchanging new ideas and cutting-edge knowledge among diverse GIScience professionals worldwide.
+The main theme of 2026 Conference on Geoinformatics is **Geo-Innovations for a Sustainable and Resilient Society**. Under this broad umbrella, the conference aims to engage dialogues between researchers and practitioners to advance theoretical, methodological, and applied aspects of geographic information science and systems that transform our living environment to be more sustainable and more resilient. Other presentations regarding cutting-edge research on or related to broadly defined geographic information sciences, technologies, and applications, are also welcome, as always.
+
+We invite you to organize and get involved in organizing sessions, workshops, and other activities.
 
 
-
-### Geoinformatics 2026
-
-**Geoinformatics 2026** (the 33rd CPGIS Annual Conference), will be held from <u>July 19 to 22, 2026</u>, at the <u>National University of Singapore, Republic of Singapore</u>. The conference is dedicated to exploring the latest advancements and innovations in Geoinformatics, focusing on the theme "**Geo-Innovations for a Sustainable and Resilient Society**." Geoinformatics 2026 aims to foster interdisciplinary collaboration by showcasing cutting-edge research and promoting knowledge exchange among researchers, practitioners, and industry experts. By addressing **sustainability and resilience** challenges, the conference seeks to drive innovation and transform our living environment. The event will feature keynote speeches from renowned experts, parallel sessions, poster presentations, and a student best paper competition. Participants will engage in discussions on emerging trends, share practical experiences, and explore opportunities for future collaboration.
 
 At Geoinformatics 2026, we welcome contributions on a range of topics, including but not limited to:
 
@@ -27,6 +25,30 @@ At Geoinformatics 2026, we welcome contributions on a range of topics, including
 - Advanced GIScience theory and geospatial method development
 - Ethical considerations of geospatial machine learning and artificial intelligence
 
-Join **Geoinformatics 2026** to be a part of shaping a more sustainable and resilient future through innovative geoinformatics solutions. For more information about the conference, submissions, and registration, please see [Download the Call for Papers PDF](#pdf)
 
 
+Join **Geoinformatics 2026** to be a part of shaping a more sustainable and resilient future through innovative geoinformatics solutions. For more information about the conference, submissions, and registration, please see [Download the Call for Papers (pending confirmation)](#pdf)
+
+
+
+<u>Visit this space for continued updates on registration, schedules, deadlines and special events coming next summer!</u>
+
+
+
+
+
+# About CPGIS
+
+The International Conference on Geoinformatics is an official conference of the International Association of Chinese Professionals in Geographic Information Sciences (CPGIS) and has been held annually since 1992. It has attracted not only the CPGIS members but also researchers, professionals, and students from broad communities around the world.
+
+The International Association of Chinese Professionals in Geographic Information Sciences (CPGIS) aims at promoting: 1) the professional development of its members by fostering cooperation among its members and by maintaining a central point of reference and deliberation, 2) the exchange of ideas, knowledge, and scientific development in GIS and related sciences and technologies between Chinese GIS professionals abroad and those in China, 3) an efficient channel between its members and other GIS professionals, through which mutual understanding and cooperation can be enhanced, and 4) education of geographic information sciences at all levels around the world.
+
+For more information about CPGIS, please visit https://www.cpgis.org/.
+
+
+
+
+
+# About the Committees of Geoinformatics 2026
+
+To be announced.

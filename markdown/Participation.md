@@ -10,21 +10,21 @@ Due: [TBC] early April 2026 *(AoE)*
 
 ## Call for papers (extended abstract & full paper)
 
-Start: [TBC] Jan 2026
-
-Due: [TBC] early April 2026 *(AoE)*
-
-Decision: [TBC] mid-April 2026
+- Abstract/Paper submission open: Jan 2026
+- Abstract submission: 5 March, 2026
+- Abstract acceptance: 6 April, 2026
+- Optional full paper: 11 June, 2026
 
 
 
 ## Registration
 
-Open: [TBC] early-March 2026 
+- Open: Early March 2026 
+- Early bird Registration: 16 April, 2026
+- Presenter Registration: 7 May, 2026*
+  *At least one presenter for each paper/abstract must register by this date.
 
-Early bird registration end: mid-May 2026
 
-At least one presenter for each paper/abstract must register by this date.
 
 <hr class="mt-6 mb-6"/>
 
@@ -99,7 +99,7 @@ The length of an extended abstract is 800 – 1000 words in English. It is basic
 
 # Registration fees [TBC]
 
-All fees listed below are in Singapore Dollars (SGD), ==GST exclusive==.
+All fees listed below are in Singapore Dollars (SGD), GST exclusive.
 
 |              |                  | Early brid (SGD) | Regular (SGD) |
 | ------------ | ---------------- | ---------------- | ------------- |
@@ -111,9 +111,19 @@ All fees listed below are in Singapore Dollars (SGD), ==GST exclusive==.
 | Student      | 1-day pass       | 150              | 200           |
 |              | Accompany person | 175              | 225           |
 
-Note: All fees are subject to tax. All registrations include reception, coffee break, and conference package. CPGIS and non-CPGIS member registrations include conference dinner. The registrants under other categories will need to purchase tickets (SGD xxx [TBC]) for the conference dinner.
+Note 1: All fees are subject to tax. All registrations include reception, coffee break, and conference package. CPGIS and non-CPGIS member registrations include conference dinner. The registrants under other categories will need to purchase tickets (SGD xxx [TBC]) for the conference dinner.
+
+Note 2: **Early-bird registration deadline**: 16 April 2026
+
+Note 3: **Registration Refund Policy**: Request for a refund must be received in writing by e-mail by July 18th, 2026 to [eiffeltzh@nus.edu.sg](mailto:eiffeltzh@nus.edu.sg), with necessary supporting documents. Any requests submitted after August 13th, 2024 will not be considered.
+
+
 
 [**Click here to register.**](#)
+
+
+
+
 
 
 <hr class="mt-6 mb-6"/>
@@ -121,3 +131,10 @@ Note: All fees are subject to tax. All registrations include reception, coffee b
 # Language
 
 All presentations, posters, and publications will be in English.
+
+
+
+
+
+# Presenters’ Guide
+
