@@ -24,8 +24,6 @@
 
   <link rel="stylesheet" href="{{ "css/theme.css"|url }}">
   <!--<link rel="stylesheet" href="{{ "css/bulma-carousel-config.css"|url }}">-->
-  <link rel="stylesheet" href="{{ "css/bulma-carousel.css"|url }}">
-
 
   {% for path in config.extra_css %}
     <link href="{{ path|url }}" rel="stylesheet">
@@ -74,22 +72,38 @@
 <body>
 
 
-<section class="hero is-fullheight has-background has-carousel"> 
-  <div id="carousel-slider" class="hero-carousel">
-      <div class="item-1">
-        <img alt="UTown Tree" class="hero-background is-transparent" src="{{ "img/trees_UTownc.png"|url }}" />
-      </div>
-      <div class="item-2">
-        <img alt="Historical Map 1" class="hero-background is-transparent" src="{{ "img/historical_maps_sg_1c.png"|url }}" />
-      </div>
-      <div class="item-3">
-        <img alt="Historical Map 2" class="hero-background is-transparent" src="{{ "img/historical_maps_sg_2c.png"|url }}" />
-      </div>
-      <div class="item-4">
-        <img alt="CBD Bay area" class="hero-background is-transparent" src="{{ "img/mapbox_minimoc.png"|url }}" />
-      </div>
-  </div>
+<section class="hero is-fullheight has-background"> <!-- has-carousel -->
 
+
+  <!-- trying carousel for multiple maps here
+  <div id="slider" class="hero-carousel">
+    <div class="card item-1">
+      <div class="card-image">
+        <figure class="image is-covered">
+          <img alt="UTown Tree" class="hero-background is-transparent" src="{{ "img/trees_UTown.png"|url }}" />
+        </figure>
+      </div>
+      <div class="card-content slider-text">
+        <div class="is-size-5 box">
+          <YOUR_IMAGE_CAPTION_HERE>
+        </div>
+      </div>
+    </div>
+    <div class="card item-2">
+      <div class="card-image">
+        <figure class="image is-covered">
+          <img alt="UTown Tree" class="hero-background is-transparent" src="{{ "img/trees_UTown.png"|url }}" />
+        </figure>
+      </div>
+      <div class="card-content slider-text">
+        <div class="is-size-5 box">
+          <YOUR_IMAGE_CAPTION_HERE>
+        </div>
+      </div>
+    </div>
+  </div>-->
+
+<img alt="UTown Tree" class="hero-background is-transparent" src="{{ "img/trees_UTown.png"|url }}" />
   <!-- Hero head: will stick at the top -->
   <div class="hero-head">
     <nav class="navbar is-transparent">
@@ -118,17 +132,17 @@
 
 <!--
 <script src="{{ "js/bulma-carousel-script.js"|url }}"></script>
--->
 <script src="{{ "js/bulma-carousel.min.js"|url }}"></script>
 
 <script>
-  bulmaCarousel.attach('#carousel-slider', {
+  bulmaCarousel.attach('#slider', {
     slidesToScroll: 1,
     slidesToShow: 1,
     infinite: true,
     autoplay: true,
   });
 </script>
+-->
 
 </body>
 </html>
