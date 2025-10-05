@@ -10,20 +10,20 @@ We invite you to organize and get involved in organizing sessions, workshops, an
 
 
 
-At Geoinformatics 2026, we welcome contributions on a range of topics, including but not limited to:
-
-- GIS and remote sensing for resilient cities
-- Spatial big data and high-performance computing for geospatial applications
-- Geospatial artificial intelligence (GeoAI)
-- Digital twins of physical and/or built environments
-- Geospatial innovation for international trade, supply chain, and maritime applications
-- Public health and spatial epidemiology
-- Human dynamics and interactions in a changing environment
-- Climate change and natural disasters
-- Sustainable transportation and mobility
-- 2D-3D geospatial data fusion
-- Advanced GIScience theory and geospatial method development
-- Ethical considerations of geospatial machine learning and artificial intelligence
+> ###  Geo-Innovations for a Sustainable and Resilient Society
+>
+> - GIS and remote sensing for resilient cities
+> - Spatial big data and high-performance computing for geospatial applications
+> - Geospatial artificial intelligence (GeoAI)
+> - Digital twins of physical and/or built environments
+> - Geospatial innovation for international trade, supply chain, and maritime applications
+> - Public health and spatial epidemiology
+> - Human dynamics and interactions in a changing environment
+> - Climate change and natural disasters
+> - Sustainable transportation and mobility
+> - 2D-3D geospatial data fusion
+> - Advanced GIScience theory and geospatial method development
+> - Ethical considerations of geospatial machine learning and artificial intelligence
 
 
 
@@ -37,6 +37,10 @@ Join **Geoinformatics 2026** to be a part of shaping a more sustainable and resi
 
 
 
+---
+
+
+
 # About CPGIS
 
 The International Conference on Geoinformatics is an official conference of the International Association of Chinese Professionals in Geographic Information Sciences (CPGIS) and has been held annually since 1992. It has attracted not only the CPGIS members but also researchers, professionals, and students from broad communities around the world.
@@ -46,6 +50,8 @@ The International Association of Chinese Professionals in Geographic Information
 For more information about CPGIS, please visit https://www.cpgis.org/.
 
 
+
+---
 
 
 
