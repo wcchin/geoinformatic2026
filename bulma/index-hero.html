@@ -75,7 +75,7 @@
 
 
 <section class="hero is-fullheight has-background has-carousel"> 
-  <div id="carousel-slider" class="hero-carousel is-hidden-mobile">
+  <div id="carousel-slider" class="hero-carousel is-hidden-touch is-hidden-desktop-only">
       <div class="item-1">
         <img alt="UTown Tree" class="hero-background is-transparent" src="{{ "img/trees_UTownc.png"|url }}" />
       </div>
@@ -88,6 +88,10 @@
       <div class="item-4">
         <img alt="CBD Bay area" class="hero-background is-transparent" src="{{ "img/mapbox_minimoc.png"|url }}" />
       </div>
+  </div>
+  
+  <div class="is-hidden-widescreen">
+	<img alt="UTown Tree" class="hero-background-fixed is-transparent" src="{{ "img/trees_UTownc.png"|url }}" />
   </div>
 
   <!-- Hero head: will stick at the top -->
@@ -119,7 +123,7 @@
 <!--
 <script src="{{ "js/bulma-carousel-script.js"|url }}"></script>
 -->
-<script src="{{ "js/bulma-carousel.min.js"|url }}"></script>
+<script src="{{ "js/bulma-carousel.js"|url }}"></script>
 
 <script>
   bulmaCarousel.attach('#carousel-slider', {
