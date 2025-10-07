@@ -55,6 +55,40 @@ For more information about CPGIS, please visit https://www.cpgis.org/.
 
 
 
-# About the Committees of Geoinformatics 2026
+# Organisation
+
+## GIS Unit, NUS (Organizer)
+
+
+
+
+
+## Committees
 
 To be announced.
+
+
+
+
+
+
+## Sponsors
+
+
+
+
+
+
+
+---
+
+
+
+# Contacts
+
+Please feel to contact at [eiffeltzh@nus.edu.sg](mailto:eiffeltzh@nus.edu.sg)
+
+
+
+
+

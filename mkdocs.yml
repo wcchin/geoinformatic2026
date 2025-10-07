@@ -13,10 +13,10 @@ theme:
 extra_css:
   - css/nord_colors.css
   - css/colours.css
-#  - css/bulma-carousel.min.css
+  - css/bulma-carousel.css
 #  - css/bulma-carousel-config.css
-#extra_javascript:
-#  - js/bulma-carousel.min.js
+extra_javascript:
+  - js/bulma-carousel.js
 #  - js/bulma-carousel-script.js
 
 #plugins:
@@ -29,9 +29,7 @@ nav:
 - About: About.md
 - Participation: Participation.md
 - Programme: Programme.md
-- Organisation: Organisation.md
 - Venue: Venue.md
-- Contact: Contact.md
 
 watch:
   - bulma
