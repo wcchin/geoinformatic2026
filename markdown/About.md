@@ -86,7 +86,7 @@ To be announced.
 
 # Contacts
 
-Please feel to contact at [eiffeltzh@nus.edu.sg](mailto:eiffeltzh@nus.edu.sg)
+Please feel to contact us at [cpgis2026@nus.edu.sg](mailto:cpgis2026@nus.edu.sg). 
 
 
 
