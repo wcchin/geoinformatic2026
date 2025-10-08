@@ -11,17 +11,17 @@ Due: [TBC] early April 2026 *(AoE)*
 ## Call for papers (extended abstract & full paper)
 
 - Abstract/Paper submission open: Jan 2026
-- Abstract submission: 5 March, 2026
-- Abstract acceptance: 6 April, 2026
-- Optional full paper: 11 June, 2026
+- Abstract submission: 2 March, 2026 (Monday)
+- Abstract acceptance: 6 April, 2026 (Monday)
+- Optional full paper: 6 June, 2026 (Monday)
 
 
 
 ## Registration
 
 - Open: Early March 2026 
-- Early bird Registration: 16 April, 2026
-- Presenter Registration: 7 May, 2026*
+- Early bird Registration: 17 April, 2026 (Friday)
+- Presenter Registration: 8 May, 2026* (Friday)
   *At least one presenter for each paper/abstract must register by this date.
 
 
@@ -97,7 +97,7 @@ The length of an extended abstract is 800 – 1000 words in English. It is basic
 <hr class="mt-6 mb-6"/>
 
 
-# Registration fees [TBC]
+# Registration Fees
 
 All fees listed below are in Singapore Dollars (SGD), GST exclusive.
 
@@ -113,9 +113,9 @@ All fees listed below are in Singapore Dollars (SGD), GST exclusive.
 
 Note 1: All fees are subject to tax. All registrations include reception, coffee break, and conference package. CPGIS and non-CPGIS member registrations include conference dinner. The registrants under other categories will need to purchase tickets (SGD xxx [TBC]) for the conference dinner.
 
-Note 2: **Early-bird registration deadline**: 16 April 2026
+Note 2: **Early-bird registration deadline**: 17 April 2026 (Friday)
 
-Note 3: **Registration Refund Policy**: Request for a refund must be received in writing by e-mail by July 18th, 2026 to [eiffeltzh@nus.edu.sg](mailto:eiffeltzh@nus.edu.sg), with necessary supporting documents. Any requests submitted after August 13th, 2024 will not be considered.
+Note 3: **Registration Refund Policy**: Request for a refund must be received in writing by e-mail by July 18th, 2026 to [cpgis2026@nus.edu.sg](mailto:cpgis2026@nus.edu.sg), with necessary supporting documents. Any requests submitted after July 18th, 2026 will not be considered.
 
 
 
